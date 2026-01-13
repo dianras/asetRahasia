@@ -1,0 +1,46 @@
+local Emote = {
+	-- emote
+    ["Laba Laba Palembang"] = "rbxassetid://140296101132217",
+	["Kejang"] = "rbxassetid://98719422024341",
+	["Asian Squat"] = "rbxassetid://75040559357535",
+    ["Swinging"] = "rbxassetid://78512680384025",
+    ["Trendy Nicki Leg"] = "rbxassetid://140708130041039",
+    ["Cute Hips"] = "rbxassetid://117181705578424",
+    ["Cute Bossy Girl"]	= "rbxassetid://115257437995638",
+    ["Cute Head Tilt"] = "rbxassetid://101992567202472",
+    ["Making face"] = "rbxassetid://89535391366809",
+    ["Wall Aura Farm"] = "rbxassetid://97751249599208",
+    ["Nonchalant Sit"] = "rbxassetid://126899447275562",
+    ["Cute Feet Kicking"] = "rbxassetid://124287251935400",
+    ["Sweet Hug V1"] = "rbxassetid://105797917228398",
+    ["Sweet Hug V2"] = "rbxassetid://118264035209903",
+    ["Side Hug"] = "rbxassetid://89930880557935",
+    ["Hugging a Plushie"] = "rbxassetid://71421245788594",
+    ["Sit 1"] = "rbxassetid://126725335305495",
+    ["Sit 2"] = "rbxassetid://90840348750437",
+    ["Sit 3"] = "rbxassetid://117639474362201",
+    ["Sit 4"] = "rbxassetid://101327705629630",
+    ["Sit 5"] = "rbxassetid://140296034263665",
+    ["Thank You Bow"] = "rbxassetid://116243979368109",
+    ["Courtly Bow"] = "rbxassetid://117913449580238",
+
+    -- dance
+    ["KedatKedut"] = "rbxassetid://124487025832160",
+	["P.B.J.T."] = "rbxassetid://108848553639889",
+	["Silly Cat AI Dance"] = "rbxassetid://137982048325793",
+    ["Popular"] = "rbxassetid://110247269861008",
+    ["Festa No Brasil"] = "rbxassetid://82516443009513",
+    ["Rakai"] = "rbxassetid://88182429670590",
+    ["Confess Your Love"] = "rbxassetid://108873777157620", 
+    ["Jamal Dance"] = "rbxassetid://114463328960354",
+    ["Brazilian Funk"] = "rbxassetid://140219184038687",
+    ["Hand Pull Shake"] = "rbxassetid://102845316684543",
+    ["Jabba Switchway"] = "rbxassetid://116714406076290",
+    ["Street Glide"] = "rbxassetid://82378883639086",
+    ["Money Hop Spin"] = "rbxassetid://75672330899301",
+    ["Coffin Dance"] = "rbxassetid://126771729094882",
+    ["Chanel"] = "rbxassetid://119696276842469",
+    ["Spide Jersey"] = "rbxassetid://72972341979988"
+}   
+
+return Emote
