@@ -21,6 +21,7 @@ local Emote = {
     ["Sit 3"] = "rbxassetid://117639474362201",
     ["Sit 4"] = "rbxassetid://101327705629630",
     ["Sit 5"] = "rbxassetid://140296034263665",
+    ["Douma Sit"] = "rbxassetid://127626736897320",
     ["Thank You Bow"] = "rbxassetid://116243979368109",
     ["Courtly Bow"] = "rbxassetid://117913449580238",
 
@@ -40,7 +41,22 @@ local Emote = {
     ["Money Hop Spin"] = "rbxassetid://75672330899301",
     ["Coffin Dance"] = "rbxassetid://126771729094882",
     ["Chanel"] = "rbxassetid://119696276842469",
-    ["Spide Jersey"] = "rbxassetid://72972341979988"
+    ["Spide Jersey"] = "rbxassetid://72972341979988",
+
+    ["La Detone"] = "rbxassetid://102779295838500",
+    ["Samba Dance"] = "rbxassetid://137507486964084",
+    ["Spongebob Shuffle"] = "rbxassetid://131791518982157",
+    ["Heat Sway"] = "rbxassetid://97079458057304",
+    ["Shuffling"] = "rbxassetid://118468821959324",
+    ["Banana Shake"] = "rbxassetid://123075301014961",
+    ["Bizcochito"] = "rbxassetid://119619032213426",
+    ["Bachata"] = "rbxassetid://80978387025853",
+    ["Feeling Myself Sway"] = "rbxassetid://77780134372141",
+    ["Acelerada"] = "rbxassetid://103360497719320",
+    [""] = "",
+
+    
+
 }   
 
-return Emote
+return Emote 
