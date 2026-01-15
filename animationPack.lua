@@ -53,10 +53,19 @@ local Emote = {
     ["Bachata"] = "rbxassetid://80978387025853",
     ["Feeling Myself Sway"] = "rbxassetid://77780134372141",
     ["Acelerada"] = "rbxassetid://103360497719320",
-    [""] = "",
+    ["Boogie Down"] = "rbxassetid://116133338602058",
+    ["Yungblud Happier"] = "http://www.roblox.com/asset/?id=15609995579",
+    ["True Heart"] = "rbxassetid://77064908855979",
+    ["Speed"] = "rbxassetid://137588536535005",
+    ["Space"] = "rbxassetid://88314507660920",
+    ["Snake Dance"] = "rbxassetid://104883065787337",
+    ["Sign Shuflle"] = "rbxassetid://112931882473990",
+    ["Salsa Starter"] = "rbxassetid://75854897933159",
+    ["Salsa Two Steps"] = "rbxassetid://104806336221889",
+    ["Salsa Side"] = "rbxassetid://103638178832659",
+    ["Trapin'"] = "rbxassetid://126649778668933",
 
     
-
 }   
 
 return Emote 
