@@ -64,7 +64,17 @@ local Emote = {
     ["Salsa Two Steps"] = "rbxassetid://104806336221889",
     ["Salsa Side"] = "rbxassetid://103638178832659",
     ["Trapin'"] = "rbxassetid://126649778668933",
-
+    ["Rollie"] = "rbxassetid://125146305865250",
+    ["Ride the Pony"] = "rbxassetid://123400636401979",
+    ["Rat Dance"] = "rbxassetid://113375965758912",
+    ["Raise the Roof"] = "rbxassetid://107319291010668",
+    ["Push Up"] = "rbxassetid://135880124214545",
+    ["Pull Up"] = "rbxassetid://98818060512049",
+    ["Pennywise"] = "rbxassetid://120192986965858",
+    ["Like Jennie"] = "rbxassetid://96227106171020",
+    ["Leaves"] = "rbxassetid://127698920996127",
+    ["Belly Dance"] = "rbxassetid://73389706883237",
+    
     
 }   
 
