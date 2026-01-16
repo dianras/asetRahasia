@@ -74,7 +74,11 @@ local Emote = {
     ["Like Jennie"] = "rbxassetid://96227106171020",
     ["Leaves"] = "rbxassetid://127698920996127",
     ["Belly Dance"] = "rbxassetid://73389706883237",
-    
+    ["Like Jennie"] = "rbxassetid://126123627689716",
+    ["Last Forever"] = "rbxassetid://124434722693938",
+    ["Last Forever 2"] = "rbxassetid://72733091898027",
+    ["Kazotsky Kick"] = "rbxassetid://135849406333587",
+    ["I Want Money"] = "rbxassetid://104248876465825",
     
 }   
 
